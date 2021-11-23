@@ -22,5 +22,5 @@ for i in inform_li:
 
 for i in list:
      with open(os.path.join('test','093119101-3'+'.txt'),'a+',encoding='utf-8') as f:
-        f.write(i + '\n')
+        f.write(i + '\n')#
 
